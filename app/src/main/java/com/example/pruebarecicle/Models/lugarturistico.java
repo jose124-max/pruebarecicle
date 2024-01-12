@@ -76,7 +76,7 @@ public class lugarturistico {
     }
 
     public String getLogo() {
-        return logo;
+        return "https://uealecpeterson.net/turismo/assets/imgs/logos_gifs/"+logo;
     }
 
     public String getImagenesGif() {
